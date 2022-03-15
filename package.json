@@ -1,0 +1,14 @@
+{
+  "name": "performance-tests-rich-text",
+  "version": "1.0.0",
+  "description": "Setup to run performance tests for rich text editor alternatives in isolation",
+  "main": "ck-editor-4/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harrison Smith",
+  "license": "ISC",
+  "dependencies": {
+    "ckeditor4": "4.17.2"
+  }
+}
