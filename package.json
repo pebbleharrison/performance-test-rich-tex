@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "ckeditor4": "4.17.2",
+    "roosterjs": "^8.18.0",
     "tinymce": "^6.0.1"
   }
 }
