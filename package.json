@@ -9,6 +9,7 @@
   "author": "Harrison Smith",
   "license": "ISC",
   "dependencies": {
-    "ckeditor4": "4.17.2"
+    "ckeditor4": "4.17.2",
+    "tinymce": "^6.0.1"
   }
 }
